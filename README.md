@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohit Sati
+- 👋 Hi, this side Mohit Sati
 - 👀 I’m interested in c++ and web development and i love to solve real world problem
-- 🌱 I’m currently learning c++ with CP
+- 🌱 I’m currently learning c++ and Backend Development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ,  my email- flux7500560@gmail.com and linkedin account - www.linkedin.com/in/mohit-sati-3b00b8257
   
