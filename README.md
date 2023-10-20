@@ -11,7 +11,7 @@
 
 - 🏴‍☠️ Ask me about **CPP , BACKEND WEB DEV ,Front-End**
 
-- 🛩️ How to reach me **flux7500560@gmail.com**
+- 🛩️ How to reach me **thissidemack@gmail.com**
 
 - ⚡ Fun fact - **Alone Programmer who is Always Ready to Code**
 
