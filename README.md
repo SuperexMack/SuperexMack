@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohit sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit sati" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_sati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_sati01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mackwalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mackwalker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohit sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit sati" height="80" width="80" /></a>
+<a href="https://instagram.com/mohit_sati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_sati01" height="80" width="80" /></a>
+<a href="https://www.leetcode.com/mackwalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mackwalker" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
