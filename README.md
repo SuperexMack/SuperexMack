@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superexmack" alt="superexmack" /></a> </p>
 
+<img align="right" width="300"  src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+
+
 - 🔭 I’m currently working on **Blog Website**
 
 - 🌱 I’m currently learning **React , Python**
@@ -17,8 +20,6 @@
 - 📫 How to reach me **flux7500560@gmail.com**
 
 - ⚡ Fun fact **I Always code(Day and Night)**
-
-- <img align="right" width="300"  src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
