@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I Always code(Day and Night)**
 
+- <img align="right" width="300"  src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohit sati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit sati" height="80" width="80" gap="40" /></a>
