@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superexmack&label=Profile%20views&color=0e75b6&style=flat" alt="superexmack" /> </p>
-<img align="right" width="300"  src="https://1.bp.blogspot.com/-rjxl5mCrKJk/XoHbIMtcIbI/AAAAAAAAAng/-mKDvNVXl0U7-kVRgl7oJXFfJPkIuZPSQCLcBGAsYHQ/s1600/coding.gif">
+<img align="right" width="300" height="500" src="https://1.bp.blogspot.com/-rjxl5mCrKJk/XoHbIMtcIbI/AAAAAAAAAng/-mKDvNVXl0U7-kVRgl7oJXFfJPkIuZPSQCLcBGAsYHQ/s1600/coding.gif">
 
 
 - 🔭 I’m currently working on **Paytm Clone**
