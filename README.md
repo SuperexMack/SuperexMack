@@ -6,7 +6,7 @@
 <img align="right" width="400" height="400" src="https://1.bp.blogspot.com/-rjxl5mCrKJk/XoHbIMtcIbI/AAAAAAAAAng/-mKDvNVXl0U7-kVRgl7oJXFfJPkIuZPSQCLcBGAsYHQ/s1600/coding.gif">
 
 
-- 🔭 I’m currently working on **Freelancing**
+- 🔭 I’m currently working on **Freelancing Projects**
 
 - 🌱 I’m currently learning **Rust , Web3**
 
