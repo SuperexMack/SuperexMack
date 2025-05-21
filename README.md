@@ -129,7 +129,7 @@
 ## 🔗 繋がりましょう | Connect With Me
 
 <p align="center">
-  <a href="https://github.com/SuperexMack"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/mohitsatilinks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="https://x.com/mohitsatitwt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://discord.com/users/1081135712642015292"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
