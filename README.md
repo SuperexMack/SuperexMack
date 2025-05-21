@@ -96,14 +96,14 @@
   <img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="200" alt="Totoro" />
 </p>
 
-<details>
+
 <summary>📚 日本の知恵 | Japanese Wisdom</summary>
 <br>
 <p align="center"><i>「七転び八起き」</i><br>Fall seven times, stand up eight.</p>
 <p align="center"><i>「継続は力なり」</i><br>Continuity is power.</p>
 <p align="center"><i>「千里の道も一歩から」</i><br>A journey of a thousand miles begins with a single step.</p>
 <p align="center"><i>「温故知新」</i><br>Learn from the past to understand the new.</p>
-</details>
+
 
 ## 📈 成長の記録 | Growth Statistics
 
