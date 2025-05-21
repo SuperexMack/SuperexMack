@@ -22,7 +22,7 @@
 ### 個人情報 | Personal Info
 - 👨‍💻 **名前 (Name):** Mohit Sati
 - 💖 **別名 (Alias):** Mack Walker
-- 🌍 **所在地 (Location):** Gurugram, India 🇮🇳
+- 🌍 **所在地 (Location):** Tokyo, Japan  🇯🇵
 - 🈳 **役割 (Role):** Full Stack Developer / Blockchain Explorer
 
 </td>
