@@ -1,6 +1,6 @@
 <h1 align="center">ようこそ、旅人 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/dxPzqR0fN1fPO/giphy.gif" width="300"/>
+   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="350"/>
   <br>
   <em>「コードとは芸術である」— Coding is an art.</em>
 </p>
