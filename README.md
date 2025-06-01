@@ -108,10 +108,10 @@
 ## 📈 成長の記録 | Growth Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyhexadecimal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuperexMack&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyhexadecimal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperexMack&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🧠 座右の銘 | Motto
