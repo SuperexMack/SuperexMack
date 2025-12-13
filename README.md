@@ -55,7 +55,7 @@ const developer = {
 
 ### BACKEND AVENUE 🏗️
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,rust,go,postgres,mongodb,redis,graphql" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,rust,postgres,mongodb,redis" alt="Backend Skills"/>
 
 ### BLOCKCHAIN BOULEVARD ⛓️
 
@@ -67,7 +67,7 @@ const developer = {
 
 ### DEVOPS DISTRICT ☁️
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,gitlab,jenkins,terraform" alt="DevOps Skills"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,github" alt="DevOps Skills"/>
 
 </div>
 
@@ -89,7 +89,6 @@ const developer = {
 
 - 🌐 **Web3 DApps** - Next-gen applications
 - ⚙️ **Rust Contracts** - Solana blockchain
-- 🤖 **AI Tools** - Developer productivity
 - ☁️ **DevOps** - Infrastructure automation
 - 💰 **DeFi Protocols** - Financial revolution
 
@@ -100,7 +99,6 @@ const developer = {
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Future"/>
 
-- 🎮 Game Development
 - 🤖 AI x Blockchain Fusion
 - 🏙️ Urban-Inspired UI/UX
 - 📱 Mobile-First Web3
