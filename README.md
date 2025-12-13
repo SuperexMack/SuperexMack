@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-### **"CODE NEVER SLEEPS"** — Just like the city.
+### **"CODE NEVER SLEEPS"** : Just like the city.
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500" alt="New York City"/>
 
@@ -155,11 +155,11 @@ Build something<br/>legendary
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohitsati&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsati&theme=tokyonight&hide_border=true&background=1a1b27&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SuperexMack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperexMack&theme=tokyonight&hide_border=true&background=1a1b27&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsati&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=ffffff" alt="Top Languages" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsati&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFD700&line=FFD700&point=ffffff" alt="Contribution Graph" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperexMack&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFD700&text_color=ffffff" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperexMack&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFD700&line=FFD700&point=ffffff" alt="Contribution Graph" width="49%"/>
 
 </div>
 
@@ -270,11 +270,11 @@ Streamlining deployment pipelines
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitsati)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mackwalker)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mohitsati.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohit@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitsati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitsatilinks/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mohitsatitwt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black)](https://we-agency.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitsati.eth@gmail.com)
+
 
 <br/>
 
