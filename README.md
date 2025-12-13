@@ -253,7 +253,7 @@ Streamlining deployment pipelines
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsati&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SuperexMack&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 <img src="https://media.giphy.com/media/g9582DNuQppxC/giphy.gif" width="400" alt="Trophy"/>
 
