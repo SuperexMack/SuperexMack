@@ -42,10 +42,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-</p>
 
 <p align="center">
-  <i>Build. Break. Learn. Repeat. 🚀</i>
+  <i>My Machine is Dead.............</i>
 </p>
