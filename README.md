@@ -1,27 +1,49 @@
-## 👨‍💻 Skills
+## 🛠️ Skills
 
-**Languages**  
-C++ · Python · JavaScript · TypeScript · Rust · Solidity · HTML · CSS  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,rust,solidity,html,css" />
+</p>
 
-**Frameworks & Libraries**  
-React.js · Next.js · Node.js · Express.js · FastAPI · Tailwind CSS · Anchor · Prisma  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi" />
+</p>
 
-**Databases**  
-PostgreSQL · MongoDB · Redis  
-
-**Tools & DevOps**  
-Git · GitHub · Linux (Ubuntu) · Docker · Kubernetes · Nginx · CI/CD · Postman  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,nginx,linux,git,github" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **ICPC Asia West Regional Contest 2025** – Amritapuri Regionalist  
-- 🏆 **Smart India Hackathon (SIH) 2025** – National Finalist  
-  - Top **5 out of 500+ teams** across India  
-- 💡 Solved **600+ DSA problems on LeetCode**  
-- 💻 Solved **1000+ problems** across multiple coding platforms  
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/ICPC_logo.svg" width="80"/><br/>
+      <b>ICPC Asia West 2025</b><br/>
+      Amritapuri Regionalist
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Smart_India_Hackathon_Logo.png" width="80"/><br/>
+      <b>Smart India Hackathon 2025</b><br/>
+      National Finalist<br/>
+      <sub>Top 5 / 500+ teams</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80"/><br/>
+      <b>DSA & Competitive Programming</b><br/>
+      600+ LeetCode<br/>
+      1000+ Total Problems
+    </td>
+  </tr>
+</table>
 
 ---
 
-> Building. Breaking. Learning. Repeating. 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+<p align="center">
+  <i>Consistency > Motivation 🚀</i>
+</p>
