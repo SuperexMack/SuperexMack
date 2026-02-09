@@ -14,6 +14,30 @@
 
 ---
 
+My Pow (work under construction)
+
+1. Social Media platform for my college - https://github.com/SuperexMack/Btkitnoteshub
+
+2. RedChat - https://github.com/SuperexMack/redChat
+
+3. yt-audio-extension - https://github.com/SuperexMack/yt-audio-extension
+
+4. Contest-Tracker - https://github.com/SuperexMack/tle
+
+5. Savebiss - https://github.com/SuperexMack/ffmpeg
+
+6. Liveo-Collab - https://github.com/SuperexMack/Collab_platform-
+
+
+
+7. BuyMeaLatte - https://github.com/SuperexMack/buymealatte
+
+
+
+
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
