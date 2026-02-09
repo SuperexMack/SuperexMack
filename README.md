@@ -29,9 +29,11 @@ My Pow (work under construction)
 6. Liveo-Collab - https://github.com/SuperexMack/Collab_platform-
 
 
-
 7. BuyMeaLatte - https://github.com/SuperexMack/buymealatte
 
+8. Twitter Blocker Extension - https://github.com/SuperexMack/TwitterBlockerExtension
+
+9. Msatoai- https://github.com/SuperexMack/Msato-San-AI
 
 
 
