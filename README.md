@@ -14,27 +14,19 @@
 
 ---
 
-My Pow (work under construction)
+### 🛠️ My POW (Work Under Construction)
 
-1. Social Media platform for my college - https://github.com/SuperexMack/Btkitnoteshub
-
-2. RedChat - https://github.com/SuperexMack/redChat
-
-3. yt-audio-extension - https://github.com/SuperexMack/yt-audio-extension
-
-4. Contest-Tracker - https://github.com/SuperexMack/tle
-
-5. Savebiss - https://github.com/SuperexMack/ffmpeg
-
-6. Liveo-Collab - https://github.com/SuperexMack/Collab_platform-
-
-
-7. BuyMeaLatte - https://github.com/SuperexMack/buymealatte
-
-8. Twitter Blocker Extension - https://github.com/SuperexMack/TwitterBlockerExtension
-
-9. Msatoai- https://github.com/SuperexMack/Msato-San-AI
-
+| # | Project Name | Repository |
+|---|-------------|------------|
+| 1 | Social Media Platform (College) | [Link](https://github.com/SuperexMack/Btkitnoteshub) |
+| 2 | RedChat | [Link](https://github.com/SuperexMack/redChat) |
+| 3 | YouTube Audio Extension | [Link](https://github.com/SuperexMack/yt-audio-extension) |
+| 4 | Contest Tracker | [Link](https://github.com/SuperexMack/tle) |
+| 5 | Savebiss (FFmpeg) | [Link](https://github.com/SuperexMack/ffmpeg) |
+| 6 | Liveo Collab Platform | [Link](https://github.com/SuperexMack/Collab_platform-) |
+| 7 | Buy Me a Latte | [Link](https://github.com/SuperexMack/buymealatte) |
+| 8 | Twitter Blocker Extension | [Link](https://github.com/SuperexMack/TwitterBlockerExtension) |
+| 9 | Msato AI | [Link](https://github.com/SuperexMack/Msato-San-AI) |
 
 
 
