@@ -1,4 +1,4 @@
-## 🛠️ Skills
+##  Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,rust,solidity,html,css" />
@@ -14,25 +14,69 @@
 
 ---
 
-### 🛠️ My POW (Work Under Construction)
+###  My POW (Work Under Construction)
 
-| # | Project Name | Repository |
-|---|-------------|------------|
-| 1 | Social Media Platform (College) | [Link](https://github.com/SuperexMack/Btkitnoteshub) |
-| 2 | RedChat | [Link](https://github.com/SuperexMack/redChat) |
-| 3 | YouTube Audio Extension | [Link](https://github.com/SuperexMack/yt-audio-extension) |
-| 4 | Contest Tracker | [Link](https://github.com/SuperexMack/tle) |
-| 5 | Savebiss (FFmpeg) | [Link](https://github.com/SuperexMack/ffmpeg) |
-| 6 | Liveo Collab Platform | [Link](https://github.com/SuperexMack/Collab_platform-) |
-| 7 | Buy Me a Latte | [Link](https://github.com/SuperexMack/buymealatte) |
-| 8 | Twitter Blocker Extension | [Link](https://github.com/SuperexMack/TwitterBlockerExtension) |
-| 9 | Msato AI | [Link](https://github.com/SuperexMack/Msato-San-AI) |
+<p align="center">
+<table>
+  <tr>
+    <th>#</th>
+    <th>Project Name</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Social Media Platform (College)</td>
+    <td><a href="https://github.com/SuperexMack/Btkitnoteshub">Link</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>RedChat</td>
+    <td><a href="https://github.com/SuperexMack/redChat">Link</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>YouTube Audio Extension</td>
+    <td><a href="https://github.com/SuperexMack/yt-audio-extension">Link</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Contest Tracker</td>
+    <td><a href="https://github.com/SuperexMack/tle">Link</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Savebiss (FFmpeg)</td>
+    <td><a href="https://github.com/SuperexMack/ffmpeg">Link</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Liveo Collab Platform</td>
+    <td><a href="https://github.com/SuperexMack/Collab_platform-">Link</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Buy Me a Latte</td>
+    <td><a href="https://github.com/SuperexMack/buymealatte">Link</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Twitter Blocker Extension</td>
+    <td><a href="https://github.com/SuperexMack/TwitterBlockerExtension">Link</a></td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Msato AI</td>
+    <td><a href="https://github.com/SuperexMack/Msato-San-AI">Link</a></td>
+  </tr>
+</table>
+</p>
+
 
 
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
 <table align="center">
