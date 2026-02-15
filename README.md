@@ -72,7 +72,7 @@
   <tr>
     <td>10</td>
     <td>WebRTC Video calling app prototype</td>
-    <td><a href="https://github.com/SuperexMack/webrtcStruct"></td>
+    <td><a href="https://github.com/SuperexMack/webrtcStruct">Link</td>
   </tr>
   
 </table>
