@@ -68,6 +68,13 @@
     <td>Msato AI</td>
     <td><a href="https://github.com/SuperexMack/Msato-San-AI">Link</a></td>
   </tr>
+
+  <tr>
+    <td>10</td>
+    <td>WebRTC Video calling app prototype</td>
+    <td><a href="https://github.com/SuperexMack/webrtcStruct"></td>
+  </tr>
+  
 </table>
 </p>
 
