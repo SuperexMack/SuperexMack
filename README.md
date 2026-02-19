@@ -71,7 +71,7 @@
 
   <tr>
     <td>10</td>
-    <td>WebRTC Video calling app prototype</td>
+    <td>Callify (WebRTC Video calling app)</td>
     <td><a href="https://github.com/SuperexMack/Callify">Link</td>
   </tr>
   
