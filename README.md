@@ -97,7 +97,7 @@
       <img src="https://imgs.search.brave.com/4KK4MgdEpN0IgrNaBUZ7eu4i-41JuCS2zEKpzHU63eI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jc2Uu/bm90aWNlYmFyZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzIzLzIwMjUv/MDYvSU1HXzIzNjkt/MTAyNHg1NzYuanBl/Zw" width="90"/><br/><br/>
       <b>Smart India Hackathon 2025</b><br/>
       National Finalist<br/>
-      <sub>Top 5 / 500+ teams</sub>
+      <sub>Top 5 / 500 teams</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="90"/><br/><br/>
